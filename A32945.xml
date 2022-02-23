@@ -1,0 +1,295 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles to be ministred, enquired of, and answered, concerning matters ecclesiastical in the visitation of John Feilding, Arch-Deacon of the Arch-Deaconry of Dorset. 1683</title>
+            <author>Church of England. Archdeaconry of Dorset.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32945</idno>
+            <idno type="STC">Wing C4032</idno>
+            <idno type="STC">ESTC R217695</idno>
+            <idno type="EEBO-CITATION">99829349</idno>
+            <idno type="PROQUEST">99829349</idno>
+            <idno type="VID">33786</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32945)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33786)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2004:08)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles to be ministred, enquired of, and answered, concerning matters ecclesiastical in the visitation of John Feilding, Arch-Deacon of the Arch-Deaconry of Dorset. 1683</title>
+                  <author>Church of England. Archdeaconry of Dorset.</author>
+                  <author>Fielding, John, ca. 1650-1697. aut</author>
+               </titleStmt>
+               <extent>11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Obadiah Blakegrave,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: John Feilding Arch-Deacon. Henry Jones Official.</note>
+                  <note>Contains: The Church-wardens oath.</note>
+                  <note>Running title: Articles of visitation.</note>
+                  <note>Reproduction of the original at the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Visitations, Ecclesiastical --  England --  Early works to 1800.</term>
+               <term>Questions and anwers --  Theology --  Early works to 1800.</term>
+               <term>Oaths --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33786:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 91 -->
+            <p>ARTICLES TO BE Miniſtred, Enquired of, and Anſwered, CONCERNING <hi>Matters Eccleſiaſtical:</hi> IN THE VISITATION OF <hi>JOHN FEILDING,</hi> Arch-Deacon of the Arch-Deaconry OF DORSET. 1683:</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Obadiah Blakegrave.</hi> 1683.</p>
+         </div>
+         <div type="instructions_for_oath-takers">
+            <pb facs="tcp:33786:2"/>
+            <!-- PDF PAGE 92 -->
+            <head>The Church-wardens Oath.</head>
+            <p>YOUR Oath is, That you the <hi>Church-wardens</hi> for your parts, and you the <hi>Sides-men</hi> for your parts, ſhall well and faith<g ref="char:EOLhyphen"/>fully execute your ſeveral Offices for your Pariſh (ſo long as you ſhall continue in your Offices) according to the Uſe and Cuſtom there, and the Law in that behalf; and alſo duely and truly preſent ſuch Crimes and Offences puniſhable by the Laws Eccleſiaſti<g ref="char:EOLhyphen"/>cal of this Land, which ſhall come to your knowledge or notice; all Favour and Affection, Hatred and Malice, or ſiniſter Reſpect ſet apart, ſo help you God, <hi>&amp;c.</hi>
+            </p>
+            <p>And We deliver you theſe Articles for your Directions.</p>
+         </div>
+      </front>
+      <body>
+         <div type="articles_of_visitation">
+            <pb n="3" facs="tcp:33786:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 92 -->
+            <head>ARTICLES TO BE Miniſtred, Enquired of, and Anſwered unto, CONCERNING <hi>Matters Eccleſiaſtical:</hi> In the VISITATION of <hi>IOHN FEILDING,</hi> Arch-Deacon of the Arch-Deaconry of <hi>DORSET,</hi> 1683.</head>
+            <list>
+               <head>Concerning the Kings Majeſties Authority in Cauſes Eccleſiaſtical.</head>
+               <item>
+                  <hi>HAVE</hi> You any in your Pariſh that oppoſe, or gainſay any part of His Majeſties Supre<g ref="char:EOLhyphen"/>macy in all Cauſes Eccleſiaſtical, as ſet forth in<g ref="char:EOLunhyphen"/>che ſecond Canon?</item>
+            </list>
+            <list>
+               <pb n="4" facs="tcp:33786:3"/>
+               <!-- PDF PAGE 93 -->
+               <head>Articles of the Church of England.</head>
+               <item>
+                  <hi>1. HAVE</hi> you any in your Pariſh that affirm, that the Church of <hi>England,</hi> as now by Law eſtabliſhed, is not a True and Apoſtolical Church; and that it doth not teach and maintain the Do<g ref="char:EOLhyphen"/>ctrine of the Apoſtles, as ſet down in the <hi>3</hi> Canon?</item>
+               <item>
+                  <hi>2. HAVE</hi> you any in your Pariſh that oppugn or ſpeaketh againſt the Rites and Ceremonies of the Church of <hi>England,</hi> or the lawful uſe of them, as coutrary to the <hi>6</hi> Canon? You ſhall preſent their Names.</item>
+               <item>
+                  <hi>3. HAVE</hi> you any in your Pariſh that impugn the Government of the Church of <hi>England,</hi> under the Kings Moſt Excellent Majeſty, by Archbiſhops and Biſhops, as at preſent eſtabliſhed, and that it is contrary to the Word of God, as contrary to the <hi>7</hi> Canon?</item>
+               <item>
+                  <hi>4. HAVE</hi> you any in your Pariſh that affirm. That the Book of Common Prayer, as now by Law is eſtabliſhed, containeth in it any thing that is Superſtitions, and contrary to the Word of God, and therefore that Godly Men ought not to approve and ſubſcribe to the ſame, contrary to the <hi>4</hi> Canon? You ſhall preſent their Names.</item>
+               <item>
+                  <hi>5. WHETHER</hi> have you any in your Pariſh that Separate from the Church of <hi>England,</hi> and the Publick Worſhip thereof, and that come not to Church until Divine Service be ended, and the Pſalm or Sermon do begin, as contrary to the <hi>9</hi> and <hi>12</hi> Canons?</item>
+               <item>
+                  <hi>6. IS</hi> there any in your Pariſh that doth main<g ref="char:EOLhyphen"/>tain
+<pb n="5" facs="tcp:33786:3" rendition="simple:additions"/>
+                  <!-- PDF PAGE 93 -->ſuch unlicenſed Preachers that refuſe to ſub<g ref="char:EOLhyphen"/>ſcribe the Forms of Gods Worſhip preſcribed in the Book of Common Prayer, contrary to the <hi>10</hi> Ca<g ref="char:EOLhyphen"/>non? And whether have you any in your Pariſh that of late have followed any ſtrange Preacher Vnlicenſed, Suſpended, or Schiſmatical, from Pariſh to Pariſh? Preſent their Names, and the Places to which they go and reſort.</item>
+            </list>
+            <list>
+               <head>Of Divine Service.</head>
+               <item>
+                  <hi>1. IS</hi> the preſent Form of Divine Service uſed by your Miniſter upon Sundays and Holi<g ref="char:EOLhyphen"/>days? And are the Lords days and other Holydays kept in your Pariſh, according to the Orders of the Church of <hi>England</hi> preſcribed in that behalf, by frequenting the Publick Worſhip, as is injoyned in the <hi>13</hi> and <hi>14</hi> Canons?</item>
+               <item>
+                  <hi>2. WHETHER</hi> is there any Man or Woman that uſeth not due reverence in the Church in time of Divine Service and Sermon? And whether is there any Man that covereth his head in the time of Divine Service, except for ſome Infirmi<g ref="char:EOLhyphen"/>ty? And, whether do all perſons preſent in the Church or Chappel, kneel reverently upon their Knees when the General Confeſſion, Litany, and Prayers are read, and ſtand up at the ſaying of the Creed, according to the <hi>18</hi> Canon?</item>
+               <item>
+                  <hi>3. IS</hi> there any in your Pariſh that lurk or tip<g ref="char:EOLhyphen"/>ple in Taverns, Alehouſes, or that ſtand idle and loiter in the Church-yard in time of Divine Ser<g ref="char:EOLhyphen"/>vice, as forbidden in the <hi>19</hi> Canon?</item>
+            </list>
+            <list>
+               <pb n="6" facs="tcp:33786:4"/>
+               <!-- PDF PAGE 94 -->
+               <head>Of the Sacraments.</head>
+               <item>
+                  <hi>1. IS</hi> the Sacrament of the Lords Supper duely adminiſtred in your Pariſh, at the leaſt thrice a year, <hi>Eaſter</hi> being one? And doth the Miniſter give warning thereof at Morning Prayer the Sunday before ſuch time? And do the Church-wardens provide a ſufficient quantity of Bread and Wine for the ſame, as by the <hi>20, 21, 22</hi> Canons is re<g ref="char:EOLhyphen"/>quired?</item>
+               <item>
+                  <hi>2. HAVE</hi> you in your Church a convenient Ta<g ref="char:EOLhyphen"/>ble, with a fine Linnen Cloth to cover the ſame in time of Adminiſtration of the Lords Supper, as Cannon the ſecond? And is the Wine brought to the table in a clean Flagon or Pot, of Pewter or purer Metal, as is required in the ſaid Ca<g ref="char:EOLhyphen"/>non?</item>
+               <item>
+                  <hi>3. DOTH</hi> your Miniſter admit any notorious Offenders, or Schiſmaticks, or any Excommuni<g ref="char:EOLhyphen"/>cate perſons, for ſuch as live in open contention with their Neighbours, to the Sacrament of the Lords Supper, contrary to the <hi>26</hi> and <hi>27</hi> Canons? Or, doth any refuſe to come to the Sacrament, contrary to the <hi>57</hi> Canon?</item>
+               <item>
+                  <hi>4. IS</hi> the Sacrament of Baptiſm duly admini<g ref="char:EOLhyphen"/>ſtred in your Church or Chappel, according to the form thereof, and the direction of the Book of Common Prayers? And is there a Font of Stone placed at the lower end of the Church for that purpoſe, as required in the <hi>81</hi> Canon?</item>
+               <item>
+                  <hi>5. HAVE</hi> you any in your Pariſh that refuſe to bring their Children to be Baptized by the Mini<g ref="char:EOLhyphen"/>ſter,
+<pb n="7" facs="tcp:33786:4"/>
+                  <!-- PDF PAGE 94 -->according to the Book of Common Prayer? Declare their Names, and how long they have done ſo.</item>
+               <item>
+                  <hi>6. WHETHER</hi> doth your Miniſter refuſe to ſign the Children with the Sign of the Croſs, when they are Baptiſed, according to the Book of Com<g ref="char:EOLhyphen"/>mon Prayer, as is required by the <hi>30</hi> Canon? And doth he Chriſten and Bury as is required by the <hi>68</hi> and <hi>69</hi> Canons?</item>
+            </list>
+            <list>
+               <head>Of Miniſters.</head>
+               <item>
+                  <hi>1. DOTH</hi> your Miniſter, when he readeth pub<g ref="char:EOLhyphen"/>lick Prayers, or admineſtreth the Sacra<g ref="char:EOLhyphen"/>ments, wear a comely Surplice with Sleeves, as is required by the <hi>58</hi> Canon?</item>
+               <item>
+                  <hi>2. DOTH</hi> your Miniſter viſit the Sick, as is re<g ref="char:EOLhyphen"/>quired by the <hi>67</hi> Canon?</item>
+               <item>
+                  <hi>3. DOTH</hi> your Miniſter uſe the form of Thankſ<g ref="char:EOLhyphen"/>giving for Women after Child-birth? And whe<g ref="char:EOLhyphen"/>ther have any Married Wives refuſed to come to Church, according to the Book of Common Pray<g ref="char:EOLhyphen"/>er, to give God Thanks after Child-birth, in ſuch uſual and decent manner as hath been anciently accuſtomed? If any be faulty, you ſhall preſent their Names.</item>
+               <item>
+                  <hi>4. DOTH</hi> your Miniſter catechiſe the Youth and more ignorant perſons of the Pariſh, in the Creed, and Lords Prayer, and the Ten Commandments, as is required in the <hi>59</hi> Canon?</item>
+               <item>
+                  <hi>5. DOTH</hi> your Miniſter pray for King <hi>Charles</hi> the Second, Queen <hi>Catharine,</hi> and the reſt of the Royal Family, as required by the <hi>55</hi> Canon?</item>
+               <item>
+                  <pb n="8" facs="tcp:33786:5"/>
+                  <!-- PDF PAGE 95 -->
+                  <hi>6. HATH</hi> your Miniſter more Benefices than one with Cure, and upon which doth he reſide? And hath he a ſufficient and able Curate, to teach and inſtance the People, as is required in the <hi>41</hi> Ca<g ref="char:EOLhyphen"/>non?</item>
+               <item>
+                  <hi>7. WHETHER</hi> doth your Parſon, Vicar, or Cu<g ref="char:EOLhyphen"/>rate frequent Taverns and Alehouſes, or is given to Drunkenneſs, Dicing, Carding, or other un<g ref="char:EOLhyphen"/>lawful Games, as are forbidden by the <hi>75</hi> Canon?</item>
+            </list>
+            <list>
+               <head>Of the Church and Church yard.</head>
+               <item>
+                  <hi>1. WHETHER</hi> have you the Bible provided of the New Tranſlation, and of the large Volume, and the Book of Common Prayers, as now by Law is eſtabliſhed, as is in the <hi>8</hi> Canon required?</item>
+               <item>
+                  <hi>2. WHETHER</hi> have you a convenient Seat for your Miniſter to read Divine Service, and a de<g ref="char:EOLhyphen"/>cent Pulpit ſet up in a convenient Place? Have you alſo a decent large Surplice? Have you alſo a fair Cup of Gold, Silver, or other purer Metal, and a Cover agreeable to the ſame; and all other neceſſary things for the Celebration of Divine Service, and Adminiſtration of the Sacraments, as the <hi>83</hi> Canon requireth?</item>
+               <item>
+                  <hi>3 WHETHER</hi> is your Church or Chappel, with the Chancel thereof, and Church-yard, kept in good Reparation, and in a decent and comely fa<g ref="char:EOLhyphen"/>ſhion, as well within as without, as becometh the Houſe of God, as is required in the <hi>85</hi> Canon?</item>
+               <item>
+                  <hi>4. IS</hi> your Parſonage or Vicarage-Houſe kept in good Reparations, and all Houſes thereunto belonging?</item>
+               <item>
+                  <pb n="9" facs="tcp:33786:5"/>
+                  <!-- PDF PAGE 95 -->
+                  <hi>5. HAVE</hi> you in your Pariſh a Regiſter-book provided, wherein may be written the day and year of every Chriſtening, Wedding, and Burial, as is required in the <hi>70</hi> Canon?</item>
+            </list>
+            <list>
+               <head>Of School Maſters.</head>
+               <item>
+                  <hi>HAVE</hi> you any Man that teacheth School ei<g ref="char:EOLhyphen"/>ther in publick or private Houſe, not having Licence from the Biſhop of the Dioceſs or his Or<g ref="char:EOLhyphen"/>dinary, as required in the <hi>77</hi> Canon? And does the Licenſed School-maſter bring his Scholars to hear Sermons, as in the <hi>79</hi> Canon is required?</item>
+            </list>
+            <list>
+               <head>Of Excommunicate Perſons.</head>
+               <item>
+                  <hi>HAVE</hi> you any Excommunicate Perſons in your Pariſh? And whether doth your Mi<g ref="char:EOLhyphen"/>niſter read Divine Service or Prayers, when any Perſons he knew to be Excommunicated was pre<g ref="char:EOLhyphen"/>ſent in the ſame Church at that time among the Congregation? And whether hath he not cauſed the Church-wardens, or ſome other Perſon, to put them forth, or to ceaſe from ſaying any Divine Service during ſuch Excommunicate Perſons be<g ref="char:EOLhyphen"/>ing thereat?</item>
+               <item>
+                  <hi>2. WHETHER</hi> hath your Parſon, Vicar, or Cu<g ref="char:EOLhyphen"/>rate received any Excommunication, Suſpenſion, or Aggravation from his Ordinary or his Subſti<g ref="char:EOLhyphen"/>tute? And hath he publiſhed the ſame according to the tenor thereof, the next Lords-day or Holy-day following the receipt.</item>
+            </list>
+            <list>
+               <head>Of the Church-wardens and Side-men.</head>
+               <item>
+                  <hi>WHETHER</hi> were your Church wardens cho<g ref="char:EOLhyphen"/>ſen in the <hi>Eaſter</hi> week, as is required in the
+<pb n="10" facs="tcp:33786:6"/>
+                  <!-- PDF PAGE 96 -->Canon? And by the conſent of the Miniſter and Pariſhioners, as is in the <hi>89</hi> Canon required? <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> they give up a juſt Account of what Mo<g ref="char:EOLhyphen"/>neys they had received, and how diſburſed? And at <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ir going out of their Office, did deliver up to the Pariſhioners what Moneys and other things belonged to them?</item>
+            </list>
+            <list>
+               <head>Of Pariſh Clerks.</head>
+               <item>
+                  <hi>HAVE</hi> you a Pariſh-Clerk, choſen by the Mi<g ref="char:EOLhyphen"/>niſter, ſuffi<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ent for his Reading, Writing, and a competent skill in Singing? And doth he receive his accuſtomed Wages, as is required in the <hi>91</hi> Canon?</item>
+            </list>
+            <list>
+               <head>Of Marriages.</head>
+               <item>
+                  <hi>1. IS</hi> there any Married in your Pariſh that are within the degrees prohibited by the Laws of God, and expreſſed in a Table, and ſet forth by Authority <hi>1563?</hi> And have you the ſaid Table ſet up in your Church, as is required in the <hi>99</hi> Ca<g ref="char:EOLhyphen"/>non?</item>
+               <item>
+                  <hi>2. HATH</hi> your Miniſter Married any under the Age of One and twenty years, without the conſent of their Parents, Guardians, and Governours, as is required in the <hi>100</hi> Canon?</item>
+               <item>
+                  <hi>3. HATH</hi> your Miniſter Married any Perſon or Perſons not having firſt publiſhed the Banns, ac<g ref="char:EOLhyphen"/>cording to the Book of Common Prayer, or obtain<g ref="char:EOLhyphen"/>ed Licence from rich as have Epiſcopal Authori<g ref="char:EOLhyphen"/>ty, or the Vicar-General of the Biſhop, as in the <hi>181</hi> Canon?</item>
+            </list>
+            <list>
+               <pb n="11" facs="tcp:33786:6"/>
+               <!-- PDF PAGE 96 -->
+               <head>Wills.</head>
+               <item>
+                  <hi>WHETHER</hi> you have in your Pariſh any Per<g ref="char:EOLhyphen"/>ſon or Perſons who died and have not their Wills proved? Or whether they died Inteſtate (that is to ſay, made no will) as far as you have heard? You ſhall preſent ſuch Executors, or ſuch as have been faulty herein.</item>
+            </list>
+            <list>
+               <head>Pariſhioners.</head>
+               <item>
+                  <hi>ARE</hi> there any in your Pariſh that are, or by common Fame or Report are Committers of Aduitery, Fornication, or Inceſt; or that are com<g ref="char:EOLhyphen"/>mon Drunkards, Swearers, and Blaſphemers of the Holy Name of God, Simonaical Perſons, Fighters, Brawlers, or Quarrellers? You are to preſent them, as is required in the <hi>106</hi> Canon.</item>
+            </list>
+            <list>
+               <head>Burials.</head>
+               <item>HAVE <hi>you buried in your Pariſh-Church or Church-yard, any Excommunicated Perſons, or known Kecuſants, or ſuch as have been <hi>Felons de ſe?</hi> And doth your Miniſter bury the Dead ac<g ref="char:EOLhyphen"/>cording to the Form preſcribed in the Book of Common Prayer, as is required in the</hi> 68 <hi>Canon?</hi>
+               </item>
+            </list>
+            <p>All theſe Things and Perſons you are conſcionably to preſent upon your Oaths, knowing that the diſcharge of your Duty in your ſeveral Places, is or may be a means to reform ſuch Diſorders and Perſons in your Pariſh, and prevent the Judgdments of God from falling on the ſame: In which, help you God.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>John Feilding</hi> Arch-Deacon.</item>
+                     <item>
+                        <hi>Henry Jones</hi> Official.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
